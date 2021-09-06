@@ -1,0 +1,35 @@
+C:\Users\Vlad\Desktop\sync_server\sync_client\bin\Debug\sync_client.exe.config
+C:\Users\Vlad\Desktop\sync_server\sync_client\bin\Debug\sync_client.exe
+C:\Users\Vlad\Desktop\sync_server\sync_client\bin\Debug\sync_client.pdb
+C:\Users\Vlad\Desktop\sync_server\sync_client\obj\Debug\sync_client.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\sync_server\sync_client\obj\Debug\sync_client.exe
+C:\Users\Vlad\Desktop\sync_server\sync_client\obj\Debug\sync_client.pdb
+C:\Users\Vlad\Desktop\sync_server\sync_client\obj\Debug\sync_client.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\UDP\sync_server\sync_client\bin\Debug\sync_client.exe.config
+C:\Users\Vlad\Desktop\UDP\sync_server\sync_client\bin\Debug\sync_client.exe
+C:\Users\Vlad\Desktop\UDP\sync_server\sync_client\bin\Debug\sync_client.pdb
+C:\Users\Vlad\Desktop\UDP\sync_server\sync_client\obj\Debug\sync_client.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\UDP\sync_server\sync_client\obj\Debug\sync_client.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\UDP\sync_server\sync_client\obj\Debug\sync_client.exe
+C:\Users\Vlad\Desktop\UDP\sync_server\sync_client\obj\Debug\sync_client.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_sockets_example\sync_server\sync_client\bin\Debug\sync_client.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_sockets_example\sync_server\sync_client\bin\Debug\sync_client.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_sockets_example\sync_server\sync_client\bin\Debug\sync_client.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_sockets_example\sync_server\sync_client\obj\Debug\sync_client.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_sockets_example\sync_server\sync_client\obj\Debug\sync_client.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_sockets_example\sync_server\sync_client\obj\Debug\sync_client.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_sockets_example\sync_server\sync_client\obj\Debug\sync_client.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\bin\Debug\sync_client.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\bin\Debug\sync_client.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\bin\Debug\sync_client.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\obj\Debug\sync_client.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\obj\Debug\sync_client.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\obj\Debug\sync_client.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\obj\Debug\sync_client.pdb
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\bin\Debug\sync_client.exe.config
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\bin\Debug\sync_client.exe
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\bin\Debug\sync_client.pdb
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\obj\Debug\sync_client.csproj.AssemblyReference.cache
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\obj\Debug\sync_client.csproj.CoreCompileInputs.cache
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\obj\Debug\sync_client.exe
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\sync_client\obj\Debug\sync_client.pdb
